@@ -1,25 +1,105 @@
 {
   "captures": [{
-    "id": "04792bc4-340b-476b-b17c-dfc40bd4447a",
+    "id": "0",
     "timestamp": 1570003199,
-    "channel": "channel identifier",
-    "croppedPicture": "url",
-    "fullPicture": "url",
+    "channel": "0",
+    "croppedPicture": "https://via.placeholder.com/150/92c952",
+    "fullPicture": "https://via.placeholder.com/600/92c952",
     "match": {
       "type": "PERSON",
-      "personId": "a8fcfe9e-01f3-40a9-8ff8-57cd0bb6a2af",
-      "personGroupId": "3d2d5416-3329-4a15-9b4c-70f06778e081"
+      "personId": "0",
+      "personGroupId": "1"
     }
-  }, {
-    "id": "04792bc4-340b-476b-b17c-dfc40bd4447a",
-    "timestamp": 1570003199,
-    "channel": "channel identifier",
-    "croppedPicture": "url",
-    "fullPicture": "url",
+  },{
+    "id": "1",
+    "timestamp": 1570003100,
+    "channel": "0",
+    "croppedPicture": "https://via.placeholder.com/150/771796",
+    "fullPicture": "https://via.placeholder.com/600/771796",
     "match": {
-      "type": "REGULAR"
+      "type": "PERSON",
+      "personId": "1",
+      "personGroupId": "1"
     }
-  }],
+  },{
+    "id": "2",
+    "timestamp": 1570003101,
+    "channel": "0",
+    "croppedPicture": "https://via.placeholder.com/150/771796",
+    "fullPicture": "https://via.placeholder.com/600/771796",
+    "match": {
+      "type": "PERSON",
+      "personId": "1",
+      "personGroupId": "1"
+    }
+  },{
+    "id": "3",
+    "timestamp": 1570003102,
+    "channel": "0",
+    "croppedPicture": "https://via.placeholder.com/150/f66b97",
+    "fullPicture": "https://via.placeholder.com/600/f66b97",
+    "match": {
+      "type": "PERSON",
+      "personId": "0",
+      "personGroupId": "1"
+    }
+  },{
+    "id": "4",
+    "timestamp": 1570003103,
+    "channel": "0",
+    "croppedPicture": "https://via.placeholder.com/150/771796",
+    "fullPicture": "https://via.placeholder.com/600/771796",
+    "match": {
+      "type": "PERSON",
+      "personId": "0",
+      "personGroupId": "1"
+    }
+  },{
+    "id": "5",
+    "timestamp": 1570003199,
+    "channel": "0",
+    "croppedPicture": "https://via.placeholder.com/150/f66b97",
+    "fullPicture": "https://via.placeholder.com/600/f66b97",
+    "match": {
+      "type": "PERSON",
+      "personId": "0",
+      "personGroupId": "1"
+    }
+  },{
+    "id": "6",
+    "timestamp": 1570003199,
+    "channel": "0",
+    "croppedPicture": "https://via.placeholder.com/150/92c952",
+    "fullPicture": "https://via.placeholder.com/600/92c952",
+    "match": {
+      "type": "PERSON",
+      "personId": "0",
+      "personGroupId": "1"
+    }
+  },{
+    "id": "7",
+    "timestamp": 1570003199,
+    "channel": "0",
+    "croppedPicture": "https://via.placeholder.com/150/56a8c2",
+    "fullPicture": "https://via.placeholder.com/600/56a8c2",
+    "match": {
+      "type": "PERSON",
+      "personId": "0",
+      "personGroupId": "1"
+    }
+  },{
+    "id": "8",
+    "timestamp": 1570003199,
+    "channel": "0",
+    "croppedPicture": "https://via.placeholder.com/150/f66b97",
+    "fullPicture": "https://via.placeholder.com/600/f66b97",
+    "match": {
+      "type": "PERSON",
+      "personId": "0",
+      "personGroupId": "1"
+    }
+  }
+],
   "people": [{
     "id": "a8fcfe9e-01f3-40a9-8ff8-57cd0bb6a2af",
     "personGroupId": "3d2d5416-3329-4a15-9b4c-70f06778e081",
