@@ -106,8 +106,20 @@
     }
   }],
   "people": [{
-    "id": "a8fcfe9e-01f3-40a9-8ff8-57cd0bb6a2af",
-    "personGroupId": "3d2d5416-3329-4a15-9b4c-70f06778e081",
-    "name": "John"
+    "id": "0",
+    "name": "Mick Jagger",
+    "group": "Rolling Stones"
+  }, {
+    "id": "1",
+    "name": "Keith Richards",
+    "group": "Rolling Stones"
+  }, {
+    "id": "2",
+    "name": "Charlie Watts",
+    "group": "Rolling Stones"
+  }, {
+    "id": "3",
+    "name": "Ronnie Wood",
+    "group": "Rolling Stones"
   }]
 }
