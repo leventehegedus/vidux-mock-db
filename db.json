@@ -8,9 +8,10 @@
     "match": {
       "type": "PERSON",
       "personId": "0",
-      "personGroupId": "1"
+      "personGroupId": "1",
+      "similarity": 91
     }
-  },{
+  }, {
     "id": "1",
     "timestamp": 1571003100,
     "channel": "0",
@@ -19,9 +20,10 @@
     "match": {
       "type": "PERSON",
       "personId": "1",
-      "personGroupId": "1"
+      "personGroupId": "1",
+      "similarity": 91
     }
-  },{
+  }, {
     "id": "2",
     "timestamp": 1572003101,
     "channel": "0",
@@ -30,9 +32,10 @@
     "match": {
       "type": "PERSON",
       "personId": "1",
-      "personGroupId": "1"
+      "personGroupId": "1",
+      "similarity": 91
     }
-  },{
+  }, {
     "id": "3",
     "timestamp": 1573003102,
     "channel": "0",
@@ -41,9 +44,10 @@
     "match": {
       "type": "PERSON",
       "personId": "2",
-      "personGroupId": "1"
+      "personGroupId": "1",
+      "similarity": 95
     }
-  },{
+  }, {
     "id": "4",
     "timestamp": 1574003103,
     "channel": "0",
@@ -52,9 +56,10 @@
     "match": {
       "type": "PERSON",
       "personId": "1",
-      "personGroupId": "1"
+      "personGroupId": "1",
+      "similarity": 98
     }
-  },{
+  }, {
     "id": "5",
     "timestamp": 1575003199,
     "channel": "0",
@@ -63,9 +68,10 @@
     "match": {
       "type": "PERSON",
       "personId": "2",
-      "personGroupId": "1"
+      "personGroupId": "1",
+      "similarity": 93
     }
-  },{
+  }, {
     "id": "6",
     "timestamp": 1576003199,
     "channel": "0",
@@ -74,9 +80,10 @@
     "match": {
       "type": "PERSON",
       "personId": "0",
-      "personGroupId": "1"
+      "personGroupId": "1",
+      "similarity": 91
     }
-  },{
+  }, {
     "id": "7",
     "timestamp": 1577003199,
     "channel": "0",
@@ -85,7 +92,7 @@
     "match": {
       "type": "REGULAR"
     }
-  },{
+  }, {
     "id": "8",
     "timestamp": 1578003199,
     "channel": "0",
@@ -94,10 +101,10 @@
     "match": {
       "type": "PERSON",
       "personId": "2",
-      "personGroupId": "1"
+      "personGroupId": "1",
+      "similarity": 83
     }
-  }
-],
+  }],
   "people": [{
     "id": "a8fcfe9e-01f3-40a9-8ff8-57cd0bb6a2af",
     "personGroupId": "3d2d5416-3329-4a15-9b4c-70f06778e081",
