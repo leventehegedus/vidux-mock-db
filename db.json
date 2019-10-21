@@ -6,7 +6,7 @@
     "croppedPicture": "https://img1.grunge.com/img/gallery/the-untold-truth-of-mick-jagger/intro-1553870685.jpg",
     "fullPicture": "https://img1.grunge.com/img/gallery/the-untold-truth-of-mick-jagger/intro-1553870685.jpg",
     "match": {
-      "type": "PERSON",
+      "type": "person",
       "personId": "0",
       "personGroupId": "1",
       "similarity": 91
@@ -18,7 +18,7 @@
     "croppedPicture": "https://i.pinimg.com/originals/08/8d/7e/088d7e8cf9d8bd42516afdd0419a5bea.jpg",
     "fullPicture": "https://i.pinimg.com/originals/08/8d/7e/088d7e8cf9d8bd42516afdd0419a5bea.jpg",
     "match": {
-      "type": "PERSON",
+      "type": "person",
       "personId": "1",
       "personGroupId": "1",
       "similarity": 91
@@ -30,7 +30,7 @@
     "croppedPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2014/12/PeterWebb-1.jpg",
     "fullPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2014/12/PeterWebb-1.jpg",
     "match": {
-      "type": "PERSON",
+      "type": "person",
       "personId": "1",
       "personGroupId": "1",
       "similarity": 91
@@ -42,7 +42,7 @@
     "croppedPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2019/06/Webp.net-resizeimage-2-3-920x585.jpg",
     "fullPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2019/06/Webp.net-resizeimage-2-3-920x585.jpg",
     "match": {
-      "type": "PERSON",
+      "type": "person",
       "personId": "2",
       "personGroupId": "1",
       "similarity": 95
@@ -54,7 +54,7 @@
     "croppedPicture": "https://media.gq-magazine.co.uk/photos/5d13a963eef921dd41a00415/master/w_1920,c_limit/keith-richards-03-gq-4jan19_getty_b.jpg",
     "fullPicture": "https://media.gq-magazine.co.uk/photos/5d13a963eef921dd41a00415/master/w_1920,c_limit/keith-richards-03-gq-4jan19_getty_b.jpg",
     "match": {
-      "type": "PERSON",
+      "type": "person",
       "personId": "1",
       "personGroupId": "1",
       "similarity": 98
@@ -66,7 +66,7 @@
     "croppedPicture": "https://shawetcanada.files.wordpress.com/2018/02/5047e206a46af8219b542069ba2b0467.jpg?quality=80&strip=all&w=450&h=300&crop=1",
     "fullPicture": "https://shawetcanada.files.wordpress.com/2018/02/5047e206a46af8219b542069ba2b0467.jpg?quality=80&strip=all&w=450&h=300&crop=1",
     "match": {
-      "type": "PERSON",
+      "type": "person",
       "personId": "2",
       "personGroupId": "1",
       "similarity": 93
@@ -78,7 +78,7 @@
     "croppedPicture": "https://townsquare.media/site/295/files/2019/08/Mick-Jagger.jpg?w=980&q=75",
     "fullPicture": "https://townsquare.media/site/295/files/2019/08/Mick-Jagger.jpg?w=980&q=75",
     "match": {
-      "type": "PERSON",
+      "type": "person",
       "personId": "0",
       "personGroupId": "1",
       "similarity": 91
@@ -90,7 +90,7 @@
     "croppedPicture": "https://upload.wikimedia.org/wikipedia/commons/8/85/John_Lennon_1969_%28cropped%29.jpg",
     "fullPicture": "https://upload.wikimedia.org/wikipedia/commons/8/85/John_Lennon_1969_%28cropped%29.jpg",
     "match": {
-      "type": "REGULAR"
+      "type": "regular"
     }
   }, {
     "id": "8",
@@ -99,7 +99,7 @@
     "croppedPicture": "https://www.rollingstone.com/wp-content/uploads/2019/01/shutterstock_9724994iw.jpg",
     "fullPicture": "https://www.rollingstone.com/wp-content/uploads/2019/01/shutterstock_9724994iw.jpg",
     "match": {
-      "type": "PERSON",
+      "type": "person",
       "personId": "2",
       "personGroupId": "1",
       "similarity": 83
@@ -111,7 +111,7 @@
     "croppedPicture": "http://kep.index.hu/1/0/1291/12919/129197/12919704_f77f6608b68836011e0d55142934072c_wm.jpg",
     "fullPicture": "http://kep.index.hu/1/0/1291/12919/129197/12919704_f77f6608b68836011e0d55142934072c_wm.jpg",
     "match": {
-      "type": "UNKNOWN"
+      "type": "unknown"
     }
   },{
     "id": "0",
@@ -120,7 +120,7 @@
     "croppedPicture": "https://img1.grunge.com/img/gallery/the-untold-truth-of-mick-jagger/intro-1553870685.jpg",
     "fullPicture": "https://img1.grunge.com/img/gallery/the-untold-truth-of-mick-jagger/intro-1553870685.jpg",
     "match": {
-      "type": "PERSON",
+      "type": "person",
       "personId": "0",
       "personGroupId": "1",
       "similarity": 91
@@ -132,7 +132,7 @@
     "croppedPicture": "https://i.pinimg.com/originals/08/8d/7e/088d7e8cf9d8bd42516afdd0419a5bea.jpg",
     "fullPicture": "https://i.pinimg.com/originals/08/8d/7e/088d7e8cf9d8bd42516afdd0419a5bea.jpg",
     "match": {
-      "type": "PERSON",
+      "type": "person",
       "personId": "1",
       "personGroupId": "1",
       "similarity": 91
@@ -144,7 +144,7 @@
     "croppedPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2014/12/PeterWebb-1.jpg",
     "fullPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2014/12/PeterWebb-1.jpg",
     "match": {
-      "type": "PERSON",
+      "type": "person",
       "personId": "1",
       "personGroupId": "1",
       "similarity": 91
