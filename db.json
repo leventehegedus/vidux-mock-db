@@ -221,66 +221,6 @@
       "personGroupId": "1",
       "similarity": 91
     }
-  }, {
-    "id": "1",
-    "timestamp": 1571003100,
-    "channel": "0",
-    "croppedPicture": "https://i.pinimg.com/originals/08/8d/7e/088d7e8cf9d8bd42516afdd0419a5bea.jpg",
-    "fullPicture": "https://i.pinimg.com/originals/08/8d/7e/088d7e8cf9d8bd42516afdd0419a5bea.jpg",
-    "match": {
-      "type": "PERSON",
-      "personId": "1",
-      "personGroupId": "1",
-      "similarity": 91
-    }
-  }, {
-    "id": "2",
-    "timestamp": 1572003101,
-    "channel": "0",
-    "croppedPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2014/12/PeterWebb-1.jpg",
-    "fullPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2014/12/PeterWebb-1.jpg",
-    "match": {
-      "type": "PERSON",
-      "personId": "1",
-      "personGroupId": "1",
-      "similarity": 91
-    }
-  }, {
-    "id": "3",
-    "timestamp": 1573003102,
-    "channel": "0",
-    "croppedPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2019/06/Webp.net-resizeimage-2-3-920x585.jpg",
-    "fullPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2019/06/Webp.net-resizeimage-2-3-920x585.jpg",
-    "match": {
-      "type": "PERSON",
-      "personId": "2",
-      "personGroupId": "1",
-      "similarity": 95
-    }
-  }, {
-    "id": "4",
-    "timestamp": 1574003103,
-    "channel": "0",
-    "croppedPicture": "https://media.gq-magazine.co.uk/photos/5d13a963eef921dd41a00415/master/w_1920,c_limit/keith-richards-03-gq-4jan19_getty_b.jpg",
-    "fullPicture": "https://media.gq-magazine.co.uk/photos/5d13a963eef921dd41a00415/master/w_1920,c_limit/keith-richards-03-gq-4jan19_getty_b.jpg",
-    "match": {
-      "type": "PERSON",
-      "personId": "1",
-      "personGroupId": "1",
-      "similarity": 98
-    }
-  }, {
-    "id": "5",
-    "timestamp": 1575003199,
-    "channel": "0",
-    "croppedPicture": "https://shawetcanada.files.wordpress.com/2018/02/5047e206a46af8219b542069ba2b0467.jpg?quality=80&strip=all&w=450&h=300&crop=1",
-    "fullPicture": "https://shawetcanada.files.wordpress.com/2018/02/5047e206a46af8219b542069ba2b0467.jpg?quality=80&strip=all&w=450&h=300&crop=1",
-    "match": {
-      "type": "PERSON",
-      "personId": "2",
-      "personGroupId": "1",
-      "similarity": 93
-    }
   }],
   "people": [{
     "id": "0",
