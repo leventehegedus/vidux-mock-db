@@ -105,6 +105,16 @@
       "similarity": 83
     }
   },{
+  }, {
+    "id": "8",
+    "timestamp": 2578003199,
+    "channel": "cam-123456",
+    "croppedPicture": "http://kep.index.hu/1/0/1291/12919/129197/12919704_f77f6608b68836011e0d55142934072c_wm.jpg",
+    "fullPicture": "http://kep.index.hu/1/0/1291/12919/129197/12919704_f77f6608b68836011e0d55142934072c_wm.jpg",
+    "match": {
+      "type": "UNKNOWN"
+    }
+  },{
     "id": "0",
     "timestamp": 3570003199,
     "channel": "cam-123456",
