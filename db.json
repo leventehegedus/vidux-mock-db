@@ -38,7 +38,7 @@
   }, {
     "id": "3",
     "timestamp": 1573003102,
-    "channel": "cam-123456-cam-123456-02",
+    "channel": "camera-126-kamcsi-123456-02",
     "croppedPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2019/06/Webp.net-resizeimage-2-3-920x585.jpg",
     "fullPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2019/06/Webp.net-resizeimage-2-3-920x585.jpg",
     "match": {
@@ -50,7 +50,7 @@
   }, {
     "id": "4",
     "timestamp": 1574003103,
-    "channel": "cam-123456-cam-123456-02",
+    "channel": "camera-126-kamcsi-123456-02",
     "croppedPicture": "https://media.gq-magazine.co.uk/photos/5d13a963eef921dd41a00415/master/w_1920,c_limit/keith-richards-03-gq-4jan19_getty_b.jpg",
     "fullPicture": "https://media.gq-magazine.co.uk/photos/5d13a963eef921dd41a00415/master/w_1920,c_limit/keith-richards-03-gq-4jan19_getty_b.jpg",
     "match": {
@@ -62,7 +62,7 @@
   }, {
     "id": "5",
     "timestamp": 1575003199,
-    "channel": "cam-123456-cam-123456-02",
+    "channel": "camera-126-kamcsi-123456-02",
     "croppedPicture": "https://shawetcanada.files.wordpress.com/2018/02/5047e206a46af8219b542069ba2b0467.jpg?quality=80&strip=all&w=450&h=300&crop=1",
     "fullPicture": "https://shawetcanada.files.wordpress.com/2018/02/5047e206a46af8219b542069ba2b0467.jpg?quality=80&strip=all&w=450&h=300&crop=1",
     "match": {
@@ -74,7 +74,7 @@
   }, {
     "id": "6",
     "timestamp": 1576003199,
-    "channel": "cam-123456-cam-123456-03",
+    "channel": "ez-egy-kamera-123456-cam-123456-03",
     "croppedPicture": "https://townsquare.media/site/295/files/2019/08/Mick-Jagger.jpg?w=980&q=75",
     "fullPicture": "https://townsquare.media/site/295/files/2019/08/Mick-Jagger.jpg?w=980&q=75",
     "match": {
@@ -86,7 +86,7 @@
   }, {
     "id": "7",
     "timestamp": 1577003199,
-    "channel": "cam-123456-cam-123456-03",
+    "channel": "ez-egy-kamera-123456-cam-123456-03",
     "croppedPicture": "https://upload.wikimedia.org/wikipedia/commons/8/85/John_Lennon_1969_%28cropped%29.jpg",
     "fullPicture": "https://upload.wikimedia.org/wikipedia/commons/8/85/John_Lennon_1969_%28cropped%29.jpg",
     "match": {
@@ -95,7 +95,7 @@
   }, {
     "id": "8",
     "timestamp": 1578003199,
-    "channel": "cam-123456-cam-123456-04",
+    "channel": "kiskutya-nagycica-óriásiegér-123456-04",
     "croppedPicture": "https://www.rollingstone.com/wp-content/uploads/2019/01/shutterstock_9724994iw.jpg",
     "fullPicture": "https://www.rollingstone.com/wp-content/uploads/2019/01/shutterstock_9724994iw.jpg",
     "match": {
@@ -107,7 +107,7 @@
   }, {
     "id": "8",
     "timestamp": 2578003199,
-    "channel": "cam-123456-cam-123456-05",
+    "channel": "nem-repülőgép-456-cam-123456-05",
     "croppedPicture": "http://kep.index.hu/1/0/1291/12919/129197/12919704_f77f6608b68836011e0d55142934072c_wm.jpg",
     "fullPicture": "http://kep.index.hu/1/0/1291/12919/129197/12919704_f77f6608b68836011e0d55142934072c_wm.jpg",
     "match": {
@@ -116,7 +116,7 @@
   }, {
     "id": "0",
     "timestamp": 3570003199,
-    "channel": "cam-123456-cam-123456-05",
+    "channel": "nem-repülőgép-456-cam-123456-05",
     "croppedPicture": "http://cityandshorebucket.s3-website-us-east-1.amazonaws.com/wp-content/uploads/APphoto_Music-QA-Mick-Jagger1.jpg",
     "fullPicture": "http://cityandshorebucket.s3-website-us-east-1.amazonaws.com/wp-content/uploads/APphoto_Music-QA-Mick-Jagger1.jpg",
     "match": {
@@ -178,12 +178,12 @@
   "cameras": [{
     "id": "cam-123456-cam-123456-01"
   }, {
-    "id": "cam-123456-cam-123456-02"
+    "id": "camera-126-kamcsi-123456-02"
   }, {
-    "id": "cam-123456-cam-123456-03"
+    "id": "ez-egy-kamera-123456-cam-123456-03"
   }, {
-    "id": "cam-123456-cam-123456-04"
+    "id": "kiskutya-nagycica-óriásiegér-123456-04"
   }, {
-    "id": "cam-123456-cam-123456-05"
+    "id": "nem-repülőgép-456-cam-123456-05"
   }]
 }
