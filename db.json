@@ -117,8 +117,8 @@
     "id": "0",
     "timestamp": 3570003199,
     "channel": "cam-123456-cam-123456-05",
-    "croppedPicture": "https://img1.grunge.com/img/gallery/the-untold-truth-of-mick-jagger/intro-1553870685.jpg",
-    "fullPicture": "https://img1.grunge.com/img/gallery/the-untold-truth-of-mick-jagger/intro-1553870685.jpg",
+    "croppedPicture": "http://cityandshorebucket.s3-website-us-east-1.amazonaws.com/wp-content/uploads/APphoto_Music-QA-Mick-Jagger1.jpg",
+    "fullPicture": "http://cityandshorebucket.s3-website-us-east-1.amazonaws.com/wp-content/uploads/APphoto_Music-QA-Mick-Jagger1.jpg",
     "match": {
       "type": "person",
       "personId": "0",
@@ -129,8 +129,8 @@
     "id": "1",
     "timestamp": 4571003100,
     "channel": "cam-123456-cam-123456-01",
-    "croppedPicture": "https://i.pinimg.com/originals/08/8d/7e/088d7e8cf9d8bd42516afdd0419a5bea.jpg",
-    "fullPicture": "https://i.pinimg.com/originals/08/8d/7e/088d7e8cf9d8bd42516afdd0419a5bea.jpg",
+    "croppedPicture": "https://si.wsj.net/public/resources/images/AR-AE491_Keith_GS_20131211131019.jpg",
+    "fullPicture": "https://si.wsj.net/public/resources/images/AR-AE491_Keith_GS_20131211131019.jpg",
     "match": {
       "type": "person",
       "personId": "1",
@@ -141,8 +141,8 @@
     "id": "2",
     "timestamp": 4572903101,
     "channel": "cam-123456-cam-123456-01",
-    "croppedPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2014/12/PeterWebb-1.jpg",
-    "fullPicture": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2014/12/PeterWebb-1.jpg",
+    "croppedPicture": "https://cdn-02.independent.ie/entertainment/music/article36908590.ece/2e7c1/AUTOCROP/w620/ipanews_8a62a8c6-f0c0-4eda-ac7c-dbaf0b3debc4_1",
+    "fullPicture": "https://cdn-02.independent.ie/entertainment/music/article36908590.ece/2e7c1/AUTOCROP/w620/ipanews_8a62a8c6-f0c0-4eda-ac7c-dbaf0b3debc4_1",
     "match": {
       "type": "person",
       "personId": "1",
